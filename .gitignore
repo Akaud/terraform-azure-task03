@@ -1,8 +1,0 @@
-# Terraform local files
-.terraform/
-*.tfstate
-*.tfstate.*
-.terraform.lock.hcl
-*.tfplan
-*.tfplan.binary
-crash.log
