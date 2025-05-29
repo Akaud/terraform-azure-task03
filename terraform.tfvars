@@ -1,0 +1,7 @@
+resource_group_name  = "cmaz-pp46akvy-mod3-rg"
+storage_account_name = "cmazpp46akvysa"
+virtual_network_name = "cmaz-pp46akvy-mod3-vnet"
+subnet_frontend_name = "frontend"
+subnet_backend_name  = "backend"
+creator_tag          = "vladyslav_levchenko@epam.com"
+location             = "East US"
